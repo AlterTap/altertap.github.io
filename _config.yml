@@ -1,0 +1,8 @@
+# Setup
+url:              http://altertap.com
+baseurl:          /
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/altertap/altertap.github.io
